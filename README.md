@@ -21,4 +21,4 @@ We can use this API directly in our project just like any other API.
 ## NOTE:
 This API may take some time for the first time to give a response as it is hosted on an unpaid platform.
 
-Made by [@Himanshu](https://www.linkedin.com/in/himanshu2312/)
+Made by [@Shubhamv](https://www.linkedin.com/in/shubham-verma-096756213/)
